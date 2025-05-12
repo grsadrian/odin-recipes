@@ -1,0 +1,19 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+li:nth-child(even) {
+  background-color: rgb(201, 201, 201);
+}
+
+a {
+  background-color: rgb(163, 163, 163);
+  padding: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+}
